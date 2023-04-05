@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="524a3121-007b-4745-9903-28ea51f724d0" name="Changes" comment="NonVoidareaOfCircle">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="524a3121-007b-4745-9903-28ea51f724d0" name="Changes" comment="NonVoidAreaOfCircle">
+      <change afterPath="$PROJECT_DIR$/src/ScannerClass/BasicScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +53,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Projects/src/main/java/BankApplication&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MethodDemo10">
-    <configuration name="MethodDemo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method.MethodDemo10" />
+  <component name="RunManager" selected="Application.BasicScanner">
+    <configuration name="BasicScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerClass.BasicScanner" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Method.*" />
+          <option name="PATTERN" value="ScannerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method.MethodDemo6" />
+    <configuration name="MethodDemo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method.MethodDemo10" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicScanner" />
         <item itemvalue="Application.MethodDemo10" />
         <item itemvalue="Application.MethodDemo9" />
         <item itemvalue="Application.MethodDemo8" />
         <item itemvalue="Application.MethodDemo7" />
-        <item itemvalue="Application.MethodDemo6" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680712019534</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="NonVoidAreaOfCircle">
+      <created>1680712117517</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680712117517</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +280,7 @@
     <MESSAGE value="NonVoidBasic" />
     <MESSAGE value="MakeSquareFromNonVoid" />
     <MESSAGE value="NonVoidareaOfCircle" />
-    <option name="LAST_COMMIT_MESSAGE" value="NonVoidareaOfCircle" />
+    <MESSAGE value="NonVoidAreaOfCircle" />
+    <option name="LAST_COMMIT_MESSAGE" value="NonVoidAreaOfCircle" />
   </component>
 </project>
