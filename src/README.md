@@ -4,3 +4,4 @@ Proper sequence is
 3)ScannerClass
 4)ControlStmt
 5)BusinessLogicClass
+6)ReferenceVariable
