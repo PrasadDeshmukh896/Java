@@ -17,7 +17,7 @@ class Laptop{
         System.out.println("Display Pictures");
     }
     void connectivity(){
-        System.out.println("Conect Diffrent Devices");
+        System.out.println("Connect Different Devices");
     }
 }
 public class Basic {
