@@ -5,3 +5,4 @@ Proper sequence is
 4)ControlStmt
 5)BusinessLogicClass
 6)ReferenceVariable
+7)Object
