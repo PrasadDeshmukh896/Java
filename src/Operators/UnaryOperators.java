@@ -12,5 +12,6 @@ public class UnaryOperators {
         System.out.println("PrePost Decr..");
         System.out.println(a--);//12     (11)
         System.out.println(--a);//10
+
     }
 }
