@@ -11,5 +11,7 @@ public class TernaryOperator {
         String result=(number%2==0)?"Even ":"Odd ";
 
         System.out.println("Given Number Is "+result+"Number");
+
+        
     }
 }
