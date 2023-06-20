@@ -7,3 +7,4 @@ Proper sequence is
 6)ReferenceVariable
 7)Object
 8)Operators
+9)TypesOfVariable
